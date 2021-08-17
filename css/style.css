@@ -29,7 +29,7 @@
     text-align: center;
     margin: 100px;
   }
-  
+  /*input box */
   .search-area {
     background: #fff;
     display: flex;
@@ -114,7 +114,7 @@
     border: none;
     outline: none;
   }
-  
+  /* buttons */
   .googlesearch {
     margin: 11px 4px;
     padding: 0 16px;
@@ -149,6 +149,7 @@
       margin-top: 18px;
   }
   
+  /* footer */
   .footer {
     margin: 0;
     padding: 0;
